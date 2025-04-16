@@ -1,2 +1,1 @@
-this is fileA,vrsion2 
-
+this it a to github
